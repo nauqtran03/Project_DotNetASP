@@ -1,0 +1,1873 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project_DotNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project_DotNet.bq9k0l8zpn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\EduAUVICWANTHand-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\EduAUVICWANTHand-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\OFL.txt",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\OFL.txt"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Bold.ttf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Medium.ttf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-Regular.ttf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\static\\EduAUVICWANTHand-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\baiviet.css",
+      "PackagePath": "staticwebassets\\css\\baiviet.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\banner.css",
+      "PackagePath": "staticwebassets\\css\\banner.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\chatluongsp.css",
+      "PackagePath": "staticwebassets\\css\\chatluongsp.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\font.css",
+      "PackagePath": "staticwebassets\\css\\font.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\fonts\\Gotham-Medium.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gotham-Medium.otf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\fonts\\Gotham-Thin.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gotham-Thin.otf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\fonts\\Gotham-Ultra.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gotham-Ultra.otf"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\gioithieu.css",
+      "PackagePath": "staticwebassets\\css\\gioithieu.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\lienhe.css",
+      "PackagePath": "staticwebassets\\css\\lienhe.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\sanpham.css",
+      "PackagePath": "staticwebassets\\css\\sanpham.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\tintuc.css",
+      "PackagePath": "staticwebassets\\css\\tintuc.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\xemtatca_sp.css",
+      "PackagePath": "staticwebassets\\css\\xemtatca_sp.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\đoitac.css",
+      "PackagePath": "staticwebassets\\css\\đoitac.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\AdminLTEFullLogo.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\AdminLTEFullLogo.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\assets\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.rtl.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.rtl.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\css\\adminlte.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\4_04.jpg",
+      "PackagePath": "staticwebassets\\img\\4_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\LIENHE.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\LIENHE.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\Nền2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\Nền2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\P002-big.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\P002-big.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\banner.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\banner.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\marvella.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\marvella.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\melissa.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\melissa.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\sheraton.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\sheraton.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\doi-tac\\vinpearl.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\doi-tac\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\1_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\1_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\1_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\1_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\1_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\1_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\1_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\1_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\1_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\1_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\2_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\2_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\2_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\2_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\2_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\2_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\2_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\2_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\2_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\2_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\3_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\3_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\4_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\4_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\BAIVIET_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\BAIVIET_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\BAIVIET_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\BAIVIET_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\BAIVIET_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\BAIVIET_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\BAIVIET_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\BAIVIET_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\BAIVIET_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\BAIVIET_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\CHITIETSANPHAM_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\CHITIETSANPHAM_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\CHITIETSANPHAM_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\CHITIETSANPHAM_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\CHITIETSANPHAM_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\CHITIETSANPHAM_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\CHITIETSANPHAM_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\CHITIETSANPHAM_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\CHITIETSANPHAM_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\CHITIETSANPHAM_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_06.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_06.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_07.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_07.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_08.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_08.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_09.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_09.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_10.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_10.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\GIOITHIEU_11.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\GIOITHIEU_11.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_06.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_06.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_07.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_07.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_08.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_08.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_09.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_09.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_10.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_10.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_11.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_11.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_12.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_12.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_13.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_13.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_14.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_14.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_15.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_15.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_16.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_16.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_17.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_17.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_18.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_18.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_19.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_19.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_20.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_20.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_21.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_21.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_22.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_22.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_23.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_23.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_24.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\XEMTATCA_SANPHAM_24.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\3_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\3_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\3_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\3_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\3_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\3_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\3_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\3_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\4_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\4_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\4_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\4_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\4_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\4_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\4_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\4_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_06.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_06.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_07.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_07.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_08.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_08.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_09.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_09.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_10.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_10.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_11.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_11.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_12.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_12.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_13.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_13.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_14.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_14.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_15.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_15.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_16.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_16.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_17.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_17.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_18.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_18.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_19.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_19.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_20.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_20.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_21.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_21.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_22.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_22.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_23.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_23.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_24.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_24.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_25.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_25.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_26.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_26.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_27.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_27.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_28.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_28.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_29.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_29.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_30.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_30.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_31.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_31.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_32.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_32.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_33.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_33.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_34.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_34.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_35.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_35.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_36.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_36.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_37.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_37.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_38.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_38.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_39.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_39.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_40.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_40.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_41.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_41.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_42.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_42.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_43.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_43.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_44.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_44.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_45.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_45.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_46.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_46.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_47.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_47.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_48.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_48.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_49.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_49.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_50.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_50.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\SANPHAM_51.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\SANPHAM_51.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh1_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh1_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh1_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh1_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh1_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh1_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh1_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh1_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh1_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh1_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh2_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh2_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh2_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh2_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh2_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh2_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh2_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh2_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh2_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh2_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh3_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh3_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh3_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh3_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh3_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh3_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh3_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh3_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh3_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh3_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh4_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh4_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh4_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh4_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh4_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh4_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh4_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh4_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\anh4_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\anh4_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_06.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_06.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_07.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_07.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_08.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_08.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_09.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_09.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_10.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_10.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_11.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_11.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_12.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_12.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_13.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_13.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\images\\images\\phòng-bếp_14.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\images\\images\\phòng-bếp_14.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\lienhe-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\lienhe-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\loai-sp\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\loai-sp\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\logo.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\logo.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\p002-small-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\p002-small-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\p002-small-1.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\p002-small-1.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\p002-small-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\p002-small-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\p002-small-3.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\p002-small-3.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\p002-small-4.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\p002-small-4.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\giuong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\giuong-ngu.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\ke-dau-giuong.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\ke-dau-giuong.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ban-uong-nuoc-2.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ban-uong-nuoc-2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ban-uong-nuoc.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ban-uong-nuoc.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ke-ti-vi.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\phong-khach-ke-ti-vi.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\sp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\sp-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\sp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\sp-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\sp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\sp-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\san-pham-noi-bat\\sp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\san-pham-noi-bat\\sp-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tin-tuc\\tintuc-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tin-tuc\\tintuc-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tin-tuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tin-tuc\\tintuc-1.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tin-tuc\\tintuc-2.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tin-tuc\\tintuc-2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tin-tuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tin-tuc\\tintuc-3.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-4.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-5.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-5.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-6.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-6.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-7.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-7.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-8.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-8.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\tintuc-9.png",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\tintuc-9.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\bao-hanh.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\bg-about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\bg-about-us.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\chat-luong.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\chinh-sach.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\san-pham.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCatTC\\ve-chung-toi\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\Remove-bg.ai_1720593959646.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\Remove-bg.ai_1720593959646.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\banner.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\banner.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\banner.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\chon-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\chon-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\chon-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\chon-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\chon-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\chon-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\chon-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\chon-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-coffee-house.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-coffee-house.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-marvella.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-marvella.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-mellisa.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-mellisa.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-muongthanh.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-muongthanh.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-sharaton.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-sharaton.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\dt-sunrise-sapa.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\dt-sunrise-sapa.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\lienhe-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\lienhe-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\lienhe-1.png.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\lienhe-1.png.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\lienhe-bg-removed.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\lienhe-bg-removed.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\logo.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\logo.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\logo.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\images\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\images\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\muc-loai\\no-image-available-icon-category-193x163.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\muc-loai\\no-image-available-icon-category-193x163.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-bep.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-bep.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-cauthang.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-cauthang.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-khach.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-khach.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-ngu.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-ngu.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-tam.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-tam.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-trangtri.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-trangtri.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-tre-em.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-tre-em.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\p-vanphong.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\p-vanphong.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\SANPHAM_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\SANPHAM_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\SANPHAM_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\SANPHAM_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\SANPHAM_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\SANPHAM_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_01.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_02.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_03.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_04.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_05.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_06.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_06.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_07.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_07.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_08.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_08.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\images\\icon_09.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\images\\icon_09.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-khach-ban-uong-nuoc-2.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-khach-ban-uong-nuoc-2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-khach-ban-uong-nuoc.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-khach-ban-uong-nuoc.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-khach-ke-de-do.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-khach-ke-de-do.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-khach-ke-ti-vi.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-khach-ke-ti-vi.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-ngu-1.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-ngu-1.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-ngu\\giuong-chau-au.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-ngu\\giuong-chau-au.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-ngu\\giuong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-ngu\\giuong-ngu.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-ngu\\ke-dau-giuong.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-ngu\\ke-dau-giuong.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-ngu\\tu-quan-ao.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-ngu\\tu-quan-ao.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\san-pham\\phong-tam-2.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\san-pham\\phong-tam-2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\sp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\sp-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\sp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\sp-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\sp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\sp-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\sp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\sp-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-1.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-2.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-3.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-4.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-5.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-5.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-6.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-6.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-7.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-7.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-8.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-8.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tin-tuc\\tintuc-9.png",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tin-tuc\\tintuc-9.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tintuc-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tintuc-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tintuc-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tintuc-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tintuc-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tintuc-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\tintuc-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\tintuc-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\AnhCat\\vinpearl.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhCat\\vinpearl.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\DSC01568-Custom-scaled.jpg",
+      "PackagePath": "staticwebassets\\img\\DSC01568-Custom-scaled.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\Liênhee.jpg",
+      "PackagePath": "staticwebassets\\img\\Liênhee.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anh cat.jpg",
+      "PackagePath": "staticwebassets\\img\\anh cat.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anh2.png",
+      "PackagePath": "staticwebassets\\img\\anh2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anh4.jpg",
+      "PackagePath": "staticwebassets\\img\\anh4.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anhcat1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anhcat2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\anhcat3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\ictu-banner03-scaled (1).jpg",
+      "PackagePath": "staticwebassets\\img\\ictu-banner03-scaled (1).jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lap1.jpg",
+      "PackagePath": "staticwebassets\\img\\lap1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lap2.jfif",
+      "PackagePath": "staticwebassets\\img\\lap2.jfif"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lap2.png",
+      "PackagePath": "staticwebassets\\img\\lap2.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lap3.jfif",
+      "PackagePath": "staticwebassets\\img\\lap3.jfif"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lap4.jfif",
+      "PackagePath": "staticwebassets\\img\\lap4.jfif"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lk1.jpg",
+      "PackagePath": "staticwebassets\\img\\lk1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lk2.jpg",
+      "PackagePath": "staticwebassets\\img\\lk2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\lk3.jpg",
+      "PackagePath": "staticwebassets\\img\\lk3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logo new.jpg",
+      "PackagePath": "staticwebassets\\img\\logo new.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logo. bộ cong thuong.png",
+      "PackagePath": "staticwebassets\\img\\logo. bộ cong thuong.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logoSaleNoti.png",
+      "PackagePath": "staticwebassets\\img\\logoSaleNoti.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\logog.png",
+      "PackagePath": "staticwebassets\\img\\logog.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-khach.jpg",
+      "PackagePath": "staticwebassets\\img\\p-khach.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-ngu.jpg",
+      "PackagePath": "staticwebassets\\img\\p-ngu.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-tam.jpg",
+      "PackagePath": "staticwebassets\\img\\p-tam.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-trangtri.jpg",
+      "PackagePath": "staticwebassets\\img\\p-trangtri.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-tre-em.jpg",
+      "PackagePath": "staticwebassets\\img\\p-tre-em.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\p-vanphong.jpg",
+      "PackagePath": "staticwebassets\\img\\p-vanphong.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\pk1.jpg",
+      "PackagePath": "staticwebassets\\img\\pk1.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\pk2.jpg",
+      "PackagePath": "staticwebassets\\img\\pk2.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\pk3.jpg",
+      "PackagePath": "staticwebassets\\img\\pk3.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\pk5.jpg",
+      "PackagePath": "staticwebassets\\img\\pk5.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\shop01.png",
+      "PackagePath": "staticwebassets\\img\\shop01.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\shop02.png",
+      "PackagePath": "staticwebassets\\img\\shop02.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\shop03.png",
+      "PackagePath": "staticwebassets\\img\\shop03.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\tải xuống.png",
+      "PackagePath": "staticwebassets\\img\\tải xuống.png"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\img\\zalo.jpg",
+      "PackagePath": "staticwebassets\\img\\zalo.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\js\\photoshop.js",
+      "PackagePath": "staticwebassets\\js\\photoshop.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project_DotNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project_DotNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project_DotNet.props",
+      "PackagePath": "build\\Project_DotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project_DotNet.props",
+      "PackagePath": "buildMultiTargeting\\Project_DotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project_DotNet.props",
+      "PackagePath": "buildTransitive\\Project_DotNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

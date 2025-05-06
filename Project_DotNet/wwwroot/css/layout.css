@@ -1,0 +1,448 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 20px;
+    font-family: Gotham-Medium;
+} 
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+.header-bgr{
+    margin-top: 10px;
+}
+.cl-blue {
+    color: #2c2e53;
+}
+
+.cl-or {
+    color: #bd945f;
+}
+
+.bg-cl-blue {
+    background-color: #2c2e53;
+}
+
+.bg-cl-or {
+    background-color: #bd945f;
+}
+
+
+header {
+    position: fixed;
+    z-index: 23;
+    background-color:#fff;
+    width: 100%;
+    margin: 0;
+    margin-top: -100px;
+    height: 115px;
+}
+
+#header-nav ul li a {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #000;
+   
+   
+}
+#header-nav li {
+    margin-left: 2.6rem;
+    position: relative;
+    font-family: Gotham-Medium;
+}
+
+#header-nav ul li:hover ::before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 70%;
+    height: 0.2rem;
+    background-color: #bd945f;
+}
+.nav-icon i{
+    float: right;
+    display: none;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+/* footer */
+footer {
+    background-color: #363636;
+    height: 10rem;
+}
+
+.container h6 {
+    color: #D3D3D3;
+    padding-top: 2rem;
+    transition: all ease 0.5s;
+}
+h6:hover{
+    color: rgb(255, 0, 191);
+}
+.container h5 {
+    color: #D3D3D3;
+    font-family: monospace;
+    font-size: 1rem;
+    font-family: Gotham-Medium;
+    transition: all ease 0.5s;
+}
+h5:hover{
+    color: rgb(255, 0, 191);
+}
+.box-distance span {
+    padding-right: 10px;
+    color: #D3D3D3;
+    transition: all ease 0.5s;
+}
+.box-distance span:hover{
+    color: rgb(255, 0, 191);
+}
+.box-distance a {
+    color: #D3D3D3;
+    font-size: 15px;
+    font-family: Gotham-Thin;
+    transition: all ease 0.5s;
+}
+/* Đổi màu khi hover vào liên kết */
+.box-distance a:hover {
+    color: #FF4500; /* Màu mới khi hover */
+}
+
+h6 {
+    position: relative;
+    text-transform: uppercase;
+    font-family: Gotham-Medium;
+    font-size: 15px;
+}
+
+h6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 3rem;
+    height: 3px;
+    left: 0%;
+    background-color: #D3D3D3;
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi màu mượt mà */
+}
+
+/* Đổi màu khi hover vào h6 */
+h6:hover::after {
+    background-color: #FF4500; /* Màu mới khi hover */
+}
+
+.box-distance p {
+    margin-bottom: 0;
+    color: #D3D3D3;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-family: Gotham-Thin;
+    transition: background-color 0.3s ease;
+
+}
+/* Đổi màu khi hover vào liên kết */
+.box-distance p:hover {
+    color: #FF4500; /* Màu mới khi hover */
+}
+
+
+.check img {
+    width: 40%;
+    height: 50px;
+    margin-top: 1.1rem;
+    transition: all ease 0.5s; /* Hiệu ứng chuyển động mượt mà */
+}
+
+/* Phóng to ảnh khi hover */
+.check img:hover {
+    transform: scale(1.2); /* Phóng to 1.2 lần khi hover */
+}
+
+
+.box-icons img {
+    height: 25px;
+    margin-bottom: 14px;
+    padding: 0 5px;
+    color: #D3D3D3;
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
+}
+
+/* Phóng to ảnh khi hover */
+.box-icons img:hover {
+    transform: scale(1.2); /* Phóng to 1.2 lần khi hover */
+}
+
+
+.box-icons i {
+    color: #D3D3D3;
+    font-size: 30px !important;
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
+}
+
+/* Phóng to biểu tượng khi hover */
+.box-icons i:hover {
+    transform: scale(1.2); /* Phóng to 1.2 lần khi hover */
+}
+h1:hover {
+    letter-spacing: 0.3em;
+    cursor: pointer;
+}
+h1 {
+    transition: all ease 0.5s;
+}
+h2:hover {
+    letter-spacing: 0.3em;
+    cursor: pointer;
+}
+h2 {
+    transition: all ease 0.5s;
+}
+.product-title{
+    transition: all ease 0.5s;
+}
+.product-title:hover{
+    color: red;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+}
+.product-size:hover{
+    color: blue;
+}
+.product-price:hover{
+    color:orangered;
+}
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1280px;
+
+    }
+}
+
+@media only screen and (min-width:  46.25em) and (max-width:63.9375em) {
+    body {
+        max-width: 1024px;
+    }
+    .container {
+        width: 100%;
+        
+    }
+    .nav-icon i{
+        cursor: pointer;
+        display: block;
+        margin-top: 40px;
+    }
+    .nav-icon {
+        cursor: pointer;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    
+    .nav-icon i {
+        font-size: 24px;
+        transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+       
+    }
+    
+    .nav-icon.active i {
+        transform: rotate(90deg); /* Xoay 90 độ */
+        color: red; /* Đổi màu khi chuyển đổi */
+    }
+    
+    .active {
+        display: block !important;
+    }
+    .header-bgr{
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-menu{
+        margin-top: 80px;
+        display: none;
+        height: auto;
+        height: 100%;
+        position: relative;
+        margin-left: -2rem;
+    }
+    .header-menu::before{
+        content: "";
+        background-color: #bd945f;
+        position: absolute;
+        top: 15px;
+        left: -140px;
+        right: 10px;
+        width: 200%;
+        height: 80%;
+    }
+    #toggleClas:checked ~ .header-menu{
+        max-height: 100%;
+    }
+    .header-menu li a{
+        display: block;
+        overflow: hidden;
+        padding-top: 25px;
+        font-size: 1rem !important;
+        margin-left:-60px;
+
+    }
+    .nav-icon {
+        display: block;
+        text-align: right; 
+    }
+    
+    
+    
+    #header-nav{
+        width: 100%;
+    }
+    #header-nav{
+        width: 100%;
+    }
+    #header-nav ul li:hover ::before {
+        content: "";
+        position: absolute;
+        top: 100%;
+        width: 15%;
+        height: 0.2rem;
+        background-color: #bd945f;
+    }
+     /* footer */
+     .col-lg-5 {
+        width: 45%;
+        gap: 4;
+    }
+
+    .col-lg-4 {
+        width: 20%;
+       
+    }
+    .col-lg-3 {
+        width: 35%;
+    }
+   
+
+}
+
+
+@media only screen and (max-width:767px) {
+
+
+    html {
+        width: 100% !important;
+    }
+
+
+    .nav-icon i{
+        cursor: pointer;
+        display: block;
+        margin-top: 40px;
+       padding-right: .5rem;
+
+    }
+    .active {
+        display: block !important;
+    }
+    .header-bgr{
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-menu{
+        margin-top: 80px;
+        display: none;
+        height: auto;
+        height: 100%;
+        position: relative;
+        margin-left: -2rem;
+    }
+    .header-menu::before{
+        content: "";
+        background-color: #bd945f;
+        position: absolute;
+        top: 15px;
+        left: -140px;
+        right: 10px;
+        width: 200%;
+        height: 80%;
+    }
+    #toggleClas:checked ~ .header-menu{
+        max-height: 100%;
+    }
+    .header-menu li a{
+        display: block;
+        overflow: hidden;
+        padding-top: 25px;
+        font-size: 20px;
+
+    }
+    #header-nav li {
+        margin-left: 0;
+    }
+    .nav-icon {
+        display: block;
+        text-align: right; 
+    }
+    
+    #header-nav{
+        width: 100%;
+    }
+    #header-nav{
+        width: 100%;
+    }
+    #header-nav ul li:hover ::before {
+        content: "";
+        position: absolute;
+        top: 100%;
+        width: 15%;
+        height: 0.2rem;
+        background-color: #bd945f;
+    }
+    /* footer */
+    footer{
+        display: block;
+        height: 100%;
+    }
+    .col-lg-5{
+        width: 100%;
+        text-align: center;
+    }
+    .col-lg-4{
+        width: 100%;
+        text-align: center;
+    }
+    .col-lg-3{
+        width: 100%;
+        text-align: center;
+    }
+    h6::after {
+        width: 5rem;
+        height: 5px;
+        left: 38%;
+    }
+
+}

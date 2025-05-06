@@ -1,49 +1,710 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Project_DotNet</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Project_DotNet.styles.css" asp-append-version="true" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ xưởng mộc</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+          integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"
+          integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
+          integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/css/index.css">
+    <link rel="stylesheet" href="~/css/layout.css">
+    <link rel="stylesheet" href="~/css/banner.css">
+    <link rel="stylesheet" href="~/css/font.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
+
 <body>
+
+    <!-- form, notify,slick -->
+    <!-- Header -->
+    <div class="cursor"></div>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Project_DotNet</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        <div class="container">
+            <div class="d-flex justify-content-between header-bgr">
+                <div class="header-logo">
+                    <img class="w-100" src="/img/logo.jpg" alt="logo">
+                </div>
+                <nav id="header-nav">
+                    <ul class="header-menu ">
+                        <li>
+                            <a href="/index.html">Trang chủ</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li>
+                            <a href="/Gioithieu.html">Giới thiệu</a>
+                        </li>
+                        <li>
+                            <a href="/Sanpham.html">Sản phẩm</a>
+                        </li>
+                        <li>
+                            <a href="/Tintuc.html">Tin tức</a>
+                        </li>
+                        <li>
+                            <a href="/Đoitac.html">Đối tác</a>
+                        </li>
+                        <li>
+                            <a href="/Lienhe.html">liên hệ</a>
                         </li>
                     </ul>
+
+                </nav>
+                <div class="nav-icon">
+                    <label for="toggleClass"><i class="fa-solid fa-bars "></i></label>
                 </div>
             </div>
-        </nav>
+        </div>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
+    <section id="banner">
         <div class="container">
-            &copy; 2025 - Project_DotNet - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="box-banner">
+                <h3>
+                    <span class="cl-blue">
+                        Thế giới nội thất số 1 việt nam
+                    </span>
+                    <br>
+                    <span class="cl-or">Hoàng Hoan</span>
+                </h3>
+                <p>
+                    Sứ mệnh của chúng tôi là kết hợp hài hoà giữa ý tưởng và
+                    mong muốn của khách hàng,
+                    đem lại những giây phút thư giãn tuyệt vời bên cạnh gia
+                    đình và người thân yêu.
+                </p>
+                <a href="/Lienhe.html" class="pulse-effect button-link">Liên hệ ngay</a>
+
+            </div>
+            <!-- Header -->
+    </section>
+    <!-- Banner -->
+    <!-- Category -->
+    <section id="category">
+        <div class="container">
+            <div class="list-category">
+                <div class="row">
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-phong-khach.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Phòng khách</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-phong-ngu.png" alt="dm-phong-ngu">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Phòng Ngủ</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-phong-bep.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Phòng Bếp</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-phong-tam.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Phòng Tắm</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-tre-em.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Trẻ em</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-van-phong.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Văn phòng</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-cau-thang.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Cầu Thang</h3>
+                        </a>
+                    </div>
+                    <div class="box-category col-3">
+                        <div class="img-category">
+                            <img src="/img/AnhCatTC/loai-sp/icon-do-trang-tri.png" alt="dm-phong-khach">
+                        </div>
+                        <a href="/Sanpham.html">
+                            <h3>Đồ trang trí</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- List sản phẩm sử dụng slick -->
+    <section id="product">
+        <div class="container">
+            <div class="container-x">
+                <a href="/Xemtatca_sp.html">
+                    <h2>Sản phẩm nổi bật</h2>
+                </a>
+                <div id="list-product">
+                    <div class="box-product ">
+                        <div class="hover-img">
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-1.jpg" alt="sp-1">
+                            </div>
+                            <div>
+                                <h3 class="product-title">
+                                    Giường châu
+                                    âu
+                                </h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="" src="/img/AnhCat/sp-2.jpg" alt="sp-1">
+                            </div>
+                            <div>
+                                <h3 class="product-title">Bàn làm việc</h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-3.jpg" alt="sp-1">
+                            </div>
+                            <div>
+                                <h3 class="product-title">Tủ Quần Áo</h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-4.jpg" alt="sp-2">
+                            </div>
+                            <div>
+                                <h3 class="product-title">Kệ Để Đồ</h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-1.jpg" alt="sp-1">
+                            </div>
+                            <div>
+                                <h3 class="product-title">
+                                    Giường châu
+                                    âu
+                                </h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="" src="/img/AnhCat/sp-2.jpg" alt="sp-1">
+                            </div>
+                            <div>
+                                <h3 class="product-title">
+                                    Giường châu
+                                    âu
+                                </h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-3.jpg" alt="sp-2">
+                            </div>
+                            <div>
+                                <h3 class="product-title">
+                                    Giường châu
+                                    âu
+                                </h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-product ">
+                        <div>
+                            <div class="imgs">
+                                <img class="w-100" src="/img/AnhCat/sp-4.jpg" alt="sp-2">
+                            </div>
+                            <div>
+                                <h3 class="product-title">
+                                    Giường châu
+                                    âu
+                                </h3>
+                                <div class="icon-star">
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                    <span><i class="fa-solid fa-star"></i></span>
+                                </div>
+                                <div class="product-size">
+                                    (Size lớn, trắng sữa)
+                                </div>
+                                <div class="product-price">
+                                    8.999.000
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <!-- About Us -->
+    <section id="about-us">
+        <div class="container">
+            <div class="container-x">
+                <div class="about-us-top">
+                    <a href="/Baiviet.html">
+                        <h2>Về chúng tôi</h2>
+                    </a>
+                    <div class="row ">
+                        <div class="col-6 img-about-us imgs">
+                            <img src="/img/AnhCat/ve-chung-toi.jpg" class="w-100" alt="ve-chung-toi">
+                        </div>
+                        <div class="col-6 content-about-us">
+                            <h3>
+                                Nội thất <span>Hoàng hoan</span><br>
+                                Uy tín song hành chất lượng
+                            </h3>
+                            <p>
+                                Nội thất <span>Hoàng Hoan</span> chúng tôi
+                                tự hào là đứa con tinh thần ra đời
+                                sau 30 năm hoạt động trên lĩnh vực kinh
+                                doanh đồ gỗ với thương hiệu
+                                ĐỒ GỖ HOÀNG HOAN nổi tiếng
+                            </p>
+                            <p>
+                                Tài nguyên của chúng tôi là đội ngũ kiến
+                                trúc sư tốt nghiệp
+                                ĐH Kiến Trúc Hà Nội với nhiều năm kinh
+                                nghiệm, luôn tràn đầy
+                                nhiệt huyết và sức sáng tạo của tuổi trẻ.
+                                Thế mạnh của chúng tôi
+                                là sở hữu xưởng nội thất hơn 10.000m2 tại Hà
+                                Nội sản xuất đa dạng
+                                các sản phẩm với giá cả cạnh tranh.
+                            </p>
+                            <div class="list-img-about-us box-product">
+                                <div class="img-about-us imgs ">
+                                    <img src="/img/AnhCat/ve-chung-toi-1.jpg" alt="ve-chung-toi-1">
+                                </div>
+                                <div class="img-about-us imgs">
+                                    <img src="/img/AnhCat/ve-chung-toi-2.jpg" alt="ve-chung-toi-2">
+                                </div>
+                                <div class="img-about-us imgs ">
+                                    <img src="/img/AnhCat/ve-chung-toi-3.jpg" alt="ve-chung-toi-3">
+                                </div>
+                                <div class="img-about-us imgs">
+                                    <img src="/img/AnhCat/ve-chung-toi-4.jpg" alt="ve-chung-toi-4">
+                                    <a href="#">Xem thêm ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-us-bottom">
+                <h2>Tại sao nên chọn hoàng hoan</h2>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="box-about-us">
+                            <div class="logo-about-us">
+                                <img src="/img/AnhCatTC/ve-chung-toi/chinh-sach.jpg" alt="chinh-sach">
+                            </div>
+                            <div class="content-about-us">
+                                <h5>Chính sách giá</h5>
+                                <p>
+                                    Tốt nhất và công khai giá trên
+                                    website
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="box-about-us">
+                            <div class="logo-about-us">
+                                <img src="/img/AnhCatTC/ve-chung-toi/san-pham.jpg" alt="san-pham">
+                            </div>
+                            <div class="content-about-us">
+                                <h5>Sản xuất</h5>
+                                <p>
+                                    Tốt nhất và công khai giá trên
+                                    website
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="box-about-us">
+                            <div class="logo-about-us">
+                                <img src="/img/AnhCatTC/ve-chung-toi/chat-luong.jpg" alt="chat-luong">
+                            </div>
+                            <div class="content-about-us">
+                                <h5>Chất lượng</h5>
+                                <p>
+                                    Tốt nhất và công khai giá trên
+                                    website
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="box-about-us">
+                            <div class="logo-about-us">
+                                <img src="/img/AnhCatTC/ve-chung-toi/bao-hanh.jpg" alt="chat-luong">
+                            </div>
+                            <div class="content-about-us">
+                                <h5>Bảo Hành</h5>
+                                <p>Dịch vụ bảo hành tốt nhất khu vực</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- News -->
+    <section id="news">
+        <div class="container">
+            <div class="container-x">
+                <a href="/Tintuc.html">
+                    <h2>Tin tức</h2>
+                </a>
+                <div class="box-news">
+                    <div class="news-left">
+                        <div class="img-news">
+                            <img class="w-100" src="/img/AnhCatTC/tin-tuc/tintuc-1.jpg" alt="tintuc-1">
+                        </div>
+                        <div class="content-news">
+                            <h4>
+                                Cách chọn sofa cho phòng khách nhà bạn thêm
+                                phần
+                                sang trọng
+                            </h4>
+                            <p class="content-p">
+                                Lorem ipsum dolor sit amet consectetur
+                                adipisicing elit. Error maiores in animi est
+                                id
+                                consequuntur atque cum eius dolorum, cumque
+                                architecto nobis pariatur doloremque, nihil
+                                sequi aliquid ad delectus beatae?
+                            </p>
+                        </div>
+                    </div>
+                    <div class="news-right">
+                        <div class="row item-news">
+                            <div class="col-5">
+                                <div class="img-news">
+                                    <img class="w-100 h-100" src="/img/AnhCat/tintuc-2.jpg" alt>
+                                </div>
+
+                            </div>
+                            <div class="col-7">
+                                <h4>Tiêu đề</h4>
+                                <p>
+                                    Lorem ipsum dolor sit, amet consectetur
+                                    adipisicing elit. Iste error, ipsum cum
+                                    sit
+                                    et fugit praesentium dolorum voluptatum
+                                    perspiciatis omnis quia soluta, eius
+                                    distinctio quos ad vero dignissimos iure
+                                    sunt!
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row item-news">
+                            <div class="col-5">
+                                <div class="img-news">
+                                    <img class="w-100 h-100" src="/img/AnhCat/tintuc-3.jpg" alt>
+                                </div>
+
+                            </div>
+                            <div class="col-7">
+                                <h4>Tiêu đề</h4>
+                                <p>
+                                    Lorem ipsum dolor sit, amet consectetur
+                                    adipisicing elit. Iste error, ipsum cum
+                                    sit
+                                    et fugit praesentium dolorum voluptatum
+                                    perspiciatis omnis quia soluta, eius
+                                    distinctio quos ad vero dignissimos iure
+                                    sunt!
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row item-news">
+                            <div class="col-5">
+                                <div class="img-news">
+                                    <img class="w-100  h-100" src="/img/AnhCat/tintuc-4.jpg" alt>
+                                </div>
+
+                            </div>
+                            <div class="col-7">
+                                <h4>Tiêu đề</h4>
+                                <p>
+                                    Lorem ipsum dolor sit, amet consectetur
+                                    adipisicing elit. Iste error, ipsum cum
+                                    sit
+                                    et fugit praesentium dolorum voluptatum
+                                    perspiciatis omnis quia soluta, eius
+                                    distinctio quos ad vero dignissimos iure
+                                    sunt!
+                                </p>
+                            </div>
+                        </div>
+
+                        <a href="/Xemtatca_sp.html">Xem thêm <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- News -->
+    <!-- Đối tác -->
+    <section id="doi-tac">
+        <div class="container">
+            <div class="container-x">
+                <a href="/Đoitac.html">
+                    <h2>Đối tác</h2>
+                </a>
+            </div>
+            <div id="lists-doi-tac">
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/vinpearl.png" alt>
+                </div>
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/muong-thanh.png" alt>
+                </div>
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/sheraton.png" alt>
+                </div>
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/the-coffee-house.png" alt>
+                </div>
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/marvella.png" alt>
+                </div>
+                <div class="img-doi-tac ">
+                    <img src="/img/AnhCatTC/doi-tac/sunrise-sapa.png" alt>
+                </div>
+                <div class="img-doi-tac center">
+                    <img src="/img/AnhCatTC/doi-tac/melissa.png" alt>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Đối tác -->
+    <!-- Liên hệ -->
+    <section id="lien-he">
+        <div class="container">
+            <div class="container-x">
+                <div class="box-lien-he">
+                    <div class="lien-he-left">
+                        <div class="lien-he-top mt-5">Trải nghiệm dịch vụ</div>
+                        <div class="lien-he-bottom">cùng Hoàn Hoan ngay</div>
+                    </div>
+                    <div class="lien-he-right">
+                        <div class="input-lien-he">
+                            <label for="exampleFormControlInput1" class="form-label">Thông tin liên hệ</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput1"
+                                   placeholder="email/số điện thoại">
+                        </div>
+                        <div class="btn-lien-he">
+                            <button>Gửi</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="img-ghe">
+            <img src="/img/AnhCat/lienhe-bg-removed.png" alt="">
+        </div>
+    </section>
+    <!-- Liên hệ -->
+    @RenderBody()
+    <!-- footer -->
+    <footer>
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-5  ">
+                    <div>
+                        <h6>Thông tin chung</h6>
+                        <h5>CÔNG TY TNHH HOÀN HOAN</h5>
+                    </div>
+                    <div class="box-distance">
+                        <a href=""><span><i class="fa-solid fa-phone"></i></span>0986294276</a>
+                        <br>
+                        <a href="">
+                            <span>
+                                <i class="fa-sharp fa-regular fa-envelope"></i></i>
+                            </span>cskh@HoangHoan.vn
+                        </a><br>
+                        <a href="">
+                            <span>
+                                <i class="fa-solid fa-location-dot"></i>
+                            </span>Số 1 Nguyễn Trãi,Thanh xuân,Hà Nội
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 ">
+                    <div>
+                        <h6>Về chúng tôi</h6>
+                    </div>
+                    <div class="box-distance">
+                        <p>Giới thiệu</p>
+                        <p>Sản phẩm</p>
+                        <p>Tin tức</p>
+                        <p>Đối tác</p>
+                        <p>Liên hệ</p>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <h6>KẾT NỐI VỚI CHÚNG TÔI</h6>
+                    <div class="box-icons">
+                        <a href="https://www.facebook.com/em.langleben.90?mibextid=LQQJ4d">
+                            <i class="fa-brands fa-square-facebook"></i>
+                        </a>
+                        <a href="/img/Liênhee.jpg"><img src="/img/AnhCat/san-pham/images/icon_07.jpg" alt=""></a>
+                        <a href=""><i class="fa-sharp fa-regular fa-envelope"></i></a>
+                    </div>
+                    <div class="check">
+                        <img src="/img/logoSaleNoti.png" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"
+            integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"
+            integrity="sha512-eP8DK17a+MOcKHXC5Yrqzd8WI5WKh6F1TIk5QZ/8Lbv+8ssblcz7oGC8ZmQ/ZSAPa7ZmsCU4e/hcovqR8jfJqA=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="~/js/photoshop.js"></script>
 </body>
+
 </html>

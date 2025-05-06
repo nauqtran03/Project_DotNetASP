@@ -1,0 +1,266 @@
+#banner {
+    background-image: url(/img/AnhCat/GIOITHIEU.jpg);
+    height: 310px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+    position: relative;
+
+}
+
+.box-banner img {
+    filter: brightness(0) invert(1);
+}
+
+.box-banner {
+    text-align: center;
+    padding-top: 2.2rem;
+}
+
+#banner h3 {
+    text-align: center;
+    color: #fff;
+    font-family: Gotham-Ultra;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+#news .container-x {
+    position: relative;
+}
+
+#news .container-x {
+    top: -2rem;
+}
+
+#news {
+    background-color: #D3D3D3;
+}
+
+#news .container-x {
+    background-color: #fff;
+}
+
+.box-product img {
+    margin-bottom: 1rem;
+    padding-top: 2rem;
+    margin-right: 3rem;
+
+}
+
+h3 {
+    padding-top: 3rem;
+    color: #B69A78;
+    font-family: monospace;
+    font-size: 25px;
+    font-family: Gotham-Ultra;
+}
+
+#list-product {
+    display: block;
+    margin: 0 5rem;
+}
+
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y)* -1);
+    margin-right: calc(var(--bs-gutter-x)* -.5);
+    margin-left: calc(var(--bs-gutter-x)* -.5);
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    color: #2c2e53;
+    text-transform: uppercase;
+    font-family: Gotham-Ultra;
+    position: relative;
+    margin-bottom: 2.6rem;
+    padding-top: 3rem;
+}
+
+.box-product p {
+    font-family: Gotham-Medium;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: .5rem;
+    text-align: justify;
+    color: #6F6F87;
+}
+
+.box-product span {
+    font-family: Gotham-Medium;
+    font-size: 15.6px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    background-color: #363636;
+    height: 10rem;
+}
+
+.container h6 {
+    color: #D3D3D3;
+    padding-top: 2rem;
+
+}
+
+.container h5 {
+    color: #D3D3D3;
+    font-family: monospace;
+    font-size: 1rem;
+    font-family: Gotham-Medium;
+}
+
+.box-distance span {
+    padding-right: 10px;
+    color: #D3D3D3;
+
+}
+
+.box-distance a {
+    color: #D3D3D3;
+    font-size: 15px;
+    font-family: Gotham-Thin;
+}
+
+h6 {
+    position: relative;
+    text-transform: uppercase;
+    font-family: Gotham-Medium;
+    font-size: 15px;
+}
+
+h6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 3rem;
+    height: 3px;
+    left: 0%;
+    background-color: #D3D3D3;
+}
+
+.box-distance p {
+    margin-bottom: 0;
+    color: #D3D3D3;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-family: Gotham-Thin;
+
+}
+
+.text-center h6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 3rem;
+    height: 3px;
+    left: 36%;
+    background-color: #D3D3D3;
+}
+
+.check img {
+    width: 40%;
+    height: 50px;
+    margin-top: 1.1rem;
+}
+
+.box-icons img {
+    height: 25px;
+    margin-bottom: 14px;
+    padding: 0 5px;
+    color: #D3D3D3;
+}
+
+.box-icons i {
+    color: #D3D3D3;
+    font-size: 30px !important;
+}
+
+/* .img-ghe img{
+    top: 100%;
+    left: 50%;
+} */
+#lien-he {
+    position: relative;
+}
+/* hover */
+.box-product img {
+    transition: all ease 0.5s;
+}
+
+.box-product:hover img {
+    transform: scale(1.1);
+}
+
+.box-product .img {
+    overflow: hidden;
+}
+@media only screen and (min-width: 768px) and (max-width:1024px) {
+    #list-product {
+        display: block;
+    }
+
+    .block {
+        display: block !important;
+        margin-bottom: 1rem;
+    }
+
+    .box-product img {
+        margin-bottom: 0;
+        padding-top: 0;
+        margin-right: 0;
+        width: 100%;
+
+    }
+
+    h3 {
+        padding-top: 0.5rem;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .box-product p {
+        text-align: center;
+    }
+
+    .box-product p {
+        padding-bottom: 2rem;
+        margin-bottom: 0;
+
+
+    }
+
+    footer {
+        margin-top: -1rem;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    #list-product .block {
+        display: block !important;
+    }
+    #list-product {
+        margin: 0 1rem;
+    }
+    .box-product img{
+        width: 100%;
+        padding-top: 0;
+        margin-bottom: 0;
+        margin-right: 0;
+    }
+    .box-product h3 {
+        text-align: center;
+        width: 100%;
+        padding-top: 1rem;
+    }
+    .box-product{
+        padding-bottom: .5rem;
+    }
+}

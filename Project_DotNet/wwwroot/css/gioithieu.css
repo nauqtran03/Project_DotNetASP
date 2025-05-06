@@ -1,0 +1,383 @@
+#banner {
+    background-image: url(/img/AnhCat/GIOITHIEU.jpg);
+    height: 310px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+    position: relative;
+
+}
+
+#banner {
+    margin-top: 100px;
+    position: relative;
+}
+
+.box-banner img {
+    filter: brightness(0) invert(1);
+}
+
+.box-banner {
+    text-align: center;
+    padding-top: 2.2rem;
+}
+
+#banner h3 {
+    text-align: center;
+    color: #fff;
+    font-family: Gotham-Ultra;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+/*  */
+#news {
+    background-color: #D3D3D3;
+}
+
+#news .container-x {
+    background-color: #fff;
+}
+
+h2::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8rem;
+    height: 0.5rem;
+    background-color: #bd945f;
+}
+
+
+
+#news .container-x {
+    position: relative;
+}
+
+#news .container-x {
+    top: -2rem;
+
+}
+
+.box-product img {
+    margin-bottom: 1rem;
+    height: 298px;
+}
+
+h3 {
+    padding-top: 3rem;
+    color: #B69A78;
+    font-family: monospace;
+    font-size: 25px;
+    font-family: Gotham-Ultra;
+}
+
+/* Thiết lập kiểu dáng chung cho section */
+#news {
+    background-color: #f9f9f9;
+}
+
+/* Kiểu dáng cho container */
+.container-x {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Tiêu đề */
+#news h2 {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+}
+
+/* Hình ảnh trong hộp sản phẩm */
+.box-product .image {
+    overflow: hidden;
+}
+
+.box-product .image img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+/* Hiệu ứng khi hover vào hình ảnh */
+.box-product .image img:hover {
+    transform: scale(1.05);
+}
+
+
+
+
+
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y)* -1);
+    margin-right: calc(var(--bs-gutter-x)* -.5);
+    margin-left: calc(var(--bs-gutter-x)* -.5);
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    color: #2c2e53;
+    text-transform: uppercase;
+    font-family: Gotham-Ultra;
+    position: relative;
+    margin-bottom: 2.6rem;
+    padding-top: 3rem;
+}
+
+.box-product p {
+    font-family: Gotham-Medium;
+    font-size: 14.5px;
+    font-weight: bold;
+    margin-bottom: .5rem;
+    text-align: justify;
+    padding-left: 2rem;
+}
+
+.box-product span {
+    font-family: Gotham-Medium;
+    font-size: 15.6px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-12 {
+    text-align: center;
+}
+
+.col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+#news .img-about-us {
+    position: relative;
+}
+
+#news .box-about-us {
+    display: flex;
+    background-color: #fff;
+    margin-top: 1.5rem;
+    border: 2px solid #bd945f;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+}
+
+#news h5 {
+    font-family: Gotham-Medium;
+    color: #bd945f;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+
+.content-about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content-about-us p {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+/* footer */
+footer {
+    background-color: #363636;
+    height: 10rem;
+}
+
+.container h6 {
+    color: #D3D3D3;
+    padding-top: 2rem;
+
+}
+
+.container h5 {
+    color: #D3D3D3;
+    font-family: monospace;
+    font-size: 1rem;
+    font-family: Gotham-Medium;
+}
+
+.box-distance span {
+    padding-right: 10px;
+    color: #D3D3D3;
+
+}
+
+.box-distance a {
+    color: #D3D3D3;
+    font-size: 15px;
+    font-family: Gotham-Thin;
+}
+
+h6 {
+    position: relative;
+    text-transform: uppercase;
+    font-family: Gotham-Medium;
+    font-size: 15px;
+}
+
+h6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 3rem;
+    height: 3px;
+    left: 0%;
+    background-color: #D3D3D3;
+}
+
+.box-distance p {
+    margin-bottom: 0;
+    color: #D3D3D3;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-family: Gotham-Thin;
+
+}
+
+.text-center h6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 3rem;
+    height: 3px;
+    left: 36%;
+    background-color: #D3D3D3;
+}
+
+.check img {
+    width: 40%;
+    height: 50px;
+    margin-top: 1.1rem;
+}
+
+.box-icons img {
+    height: 25px;
+    margin-bottom: 14px;
+    padding: 0 5px;
+    color: #D3D3D3;
+}
+
+.box-icons i {
+    color: #D3D3D3;
+    font-size: 30px !important;
+}
+
+/* .img-ghe img{
+    top: 100%;
+    left: 50%;
+} */
+#lien-he {
+    position: relative;
+}
+/* hover */
+.box-product img {
+    max-width: 100%;
+    transition: all ease 0.5s;
+}
+
+.box-product:hover img {
+    transform: scale(1.1);
+}
+
+.box-product .img {
+    overflow: hidden;
+}
+@media only screen and (min-width: 46.25em) and (max-width:63.9375em) {
+    #list-product {
+        width: 100%;
+        padding: 0 1rem;
+    }
+
+    .box-product {
+        width: 100%;
+        margin-left: 0;
+
+    }
+    #news .container-x {
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+    .box-product img {
+        width: 100%;
+    }
+
+    .box-product p {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .reset {
+        display: block;
+    }
+
+    .col-6 {
+        width: 100%;
+        padding-bottom: .5rem;
+    }
+    
+}
+@media only screen and (max-width:767px) {
+    #news .row{
+        display: block;
+    }
+    #news .container-x {
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+    #list-products{
+        margin: 0 1rem;
+        
+    }
+    
+    #list-products .col-5{
+        width: 100%;
+        margin-left: 0;
+
+        
+    }
+    .box-product p {
+        margin-bottom: 0rem;
+        margin-top: .5rem;
+        padding-left: 0;
+    }
+    
+    #list-products .col-12{
+        width: 100%;
+        margin-left: 0;
+        
+    }
+    #list-products .col-12  {
+        text-align: justify;
+    }
+    #news .row {
+        display: block;
+        /* margin: 0 1rem; */
+    }
+    #news .col-6{
+        width: 100%;
+        padding-bottom: 1rem;
+    }
+    #news .box-about-us {
+        margin-bottom: 0;
+        
+    }
+}
