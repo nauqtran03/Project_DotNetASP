@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Project_DotNet.Models.DBModel;
+
 namespace Project_DotNet
 {
     public class Program
@@ -8,6 +11,9 @@ namespace Project_DotNet
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            var connectString = builder.Configuration.GetConnectionString("DBConnect");
+            builder.Services.AddDbContext<DevxuongmocContext>(op => op.UseSqlServer(connectString));
 
             var app = builder.Build();
 
@@ -25,7 +31,7 @@ namespace Project_DotNet
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseAuthentication();    
             app.MapControllerRoute(
                name: "areas",
                pattern: "{area:exists}/{controller=DashBoard}/{action=Index}/{id?}");
