@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Project_DotNet.Models.DBModel.Introduction>
+﻿@model IEnumerable<Project_DotNet.Models.DBModel.Category>
 
 @{
     ViewData["Title"] = "Index";
@@ -17,25 +17,10 @@
                 @Html.DisplayNameFor(model => model.Title)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Image)
+                @Html.DisplayNameFor(model => model.Icon)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Orders)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Home)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Type)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Parentid)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MetaTitle)
+                @Html.DisplayNameFor(model => model.MateTitle)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.MetaKeyword)
@@ -45,6 +30,12 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Slug)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Orders)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Parentid)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.CreatedDate)
@@ -59,7 +50,7 @@
                 @Html.DisplayNameFor(model => model.AdminUpdated)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Content)
+                @Html.DisplayNameFor(model => model.Notes)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Status)
@@ -77,25 +68,10 @@
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                @Html.DisplayFor(modelItem => item.Icon)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Orders)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Home)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Type)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Parentid)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MetaTitle)
+                @Html.DisplayFor(modelItem => item.MateTitle)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.MetaKeyword)
@@ -105,6 +81,12 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Slug)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Orders)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Parentid)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.CreatedDate)
@@ -119,7 +101,7 @@
                 @Html.DisplayFor(modelItem => item.AdminUpdated)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Content)
+                @Html.DisplayFor(modelItem => item.Notes)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Status)

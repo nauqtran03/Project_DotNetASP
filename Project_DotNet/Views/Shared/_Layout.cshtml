@@ -34,29 +34,7 @@
                 <div class="header-logo">
                     <img class="w-100" src="/img/logo.jpg" alt="logo">
                 </div>
-                <nav id="header-nav">
-                    <ul class="header-menu ">
-                        <li>
-                            <a asp-action="">Trang chủ</a>
-                        </li>
-                        <li>
-                            <a asp-action="Index" asp-controller="Introductions">Giới thiệu</a>
-                        </li>
-                        <li>
-                            <a asp-action="Index" asp-controller="Product">Sản phẩm</a>
-                        </li>
-                        <li>
-                            <a asp-action="Index" asp-controller="News">Tin tức</a>
-                        </li>
-                        <li>
-                            <a asp-action="Index" asp-controller="Partner">Đối tác</a>
-                        </li>
-                        <li>
-                            <a asp-action="Index" asp-controller="Contact">liên hệ</a>
-                        </li>
-                    </ul>
-
-                </nav>
+                @await Component.InvokeAsync("Navbar");
                 <div class="nav-icon">
                     <label for="toggleClass"><i class="fa-solid fa-bars "></i></label>
                 </div>
@@ -70,6 +48,7 @@
     <!-- Banner -->
     <!-- Category -->
     <section id="category">
+        
         @Html.Partial("_CategoryPartial")
     </section>
     <!-- List sản phẩm sử dụng slick -->
@@ -159,6 +138,7 @@
             integrity="sha512-eP8DK17a+MOcKHXC5Yrqzd8WI5WKh6F1TIk5QZ/8Lbv+8ssblcz7oGC8ZmQ/ZSAPa7ZmsCU4e/hcovqR8jfJqA=="
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="~/js/photoshop.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 
 </html>

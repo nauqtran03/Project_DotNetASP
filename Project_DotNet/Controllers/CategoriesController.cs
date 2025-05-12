@@ -9,22 +9,22 @@ using Project_DotNet.Models.DBModel;
 
 namespace Project_DotNet.Controllers
 {
-    public class IntroductionsController : Controller
+    public class CategoriesController : Controller
     {
         private readonly DevxuongmocContext _context;
 
-        public IntroductionsController(DevxuongmocContext context)
+        public CategoriesController(DevxuongmocContext context)
         {
             _context = context;
         }
 
-        // GET: Introductions
+        // GET: Categories
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Introductions.ToListAsync());
+            return View(await _context.Categories.ToListAsync());
         }
 
-        // GET: Introductions/Details/5
+        // GET: Categories/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -32,39 +32,39 @@ namespace Project_DotNet.Controllers
                 return NotFound();
             }
 
-            var introduction = await _context.Introductions
+            var category = await _context.Categories
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (introduction == null)
+            if (category == null)
             {
                 return NotFound();
             }
 
-            return View(introduction);
+            return View(category);
         }
 
-        // GET: Introductions/Create
+        // GET: Categories/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Introductions/Create
+        // POST: Categories/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Image,Orders,Description,Home,Type,Parentid,MetaTitle,MetaKeyword,MetaDescription,Slug,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Content,Status,Isdelete")] Introduction introduction)
+        public async Task<IActionResult> Create([Bind("Id,Title,Icon,MateTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Category category)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(introduction);
+                _context.Add(category);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(introduction);
+            return View(category);
         }
 
-        // GET: Introductions/Edit/5
+        // GET: Categories/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -72,22 +72,22 @@ namespace Project_DotNet.Controllers
                 return NotFound();
             }
 
-            var introduction = await _context.Introductions.FindAsync(id);
-            if (introduction == null)
+            var category = await _context.Categories.FindAsync(id);
+            if (category == null)
             {
                 return NotFound();
             }
-            return View(introduction);
+            return View(category);
         }
 
-        // POST: Introductions/Edit/5
+        // POST: Categories/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Image,Orders,Description,Home,Type,Parentid,MetaTitle,MetaKeyword,MetaDescription,Slug,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Content,Status,Isdelete")] Introduction introduction)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Icon,MateTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Category category)
         {
-            if (id != introduction.Id)
+            if (id != category.Id)
             {
                 return NotFound();
             }
@@ -96,12 +96,12 @@ namespace Project_DotNet.Controllers
             {
                 try
                 {
-                    _context.Update(introduction);
+                    _context.Update(category);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!IntroductionExists(introduction.Id))
+                    if (!CategoryExists(category.Id))
                     {
                         return NotFound();
                     }
@@ -112,10 +112,10 @@ namespace Project_DotNet.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(introduction);
+            return View(category);
         }
 
-        // GET: Introductions/Delete/5
+        // GET: Categories/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,34 +123,34 @@ namespace Project_DotNet.Controllers
                 return NotFound();
             }
 
-            var introduction = await _context.Introductions
+            var category = await _context.Categories
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (introduction == null)
+            if (category == null)
             {
                 return NotFound();
             }
 
-            return View(introduction);
+            return View(category);
         }
 
-        // POST: Introductions/Delete/5
+        // POST: Categories/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var introduction = await _context.Introductions.FindAsync(id);
-            if (introduction != null)
+            var category = await _context.Categories.FindAsync(id);
+            if (category != null)
             {
-                _context.Introductions.Remove(introduction);
+                _context.Categories.Remove(category);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool IntroductionExists(int id)
+        private bool CategoryExists(int id)
         {
-            return _context.Introductions.Any(e => e.Id == id);
+            return _context.Categories.Any(e => e.Id == id);
         }
     }
 }
