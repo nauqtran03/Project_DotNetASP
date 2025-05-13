@@ -1,8 +1,350 @@
-﻿@{
+﻿@model Project_DotNet.Models.HomeIndexViewModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section id="banner">
+    <div class="container">
+        <div class="box-banner">
+            <h3>
+                <span class="cl-blue">
+                    Thế giới nội thất số 1 việt nam
+                </span>
+                <br>
+                <span class="cl-or">Hoàng Hoan</span>
+            </h3>
+            <p>
+                Sứ mệnh của chúng tôi là kết hợp hài hoà giữa ý tưởng và
+                mong muốn của khách hàng,
+                đem lại những giây phút thư giãn tuyệt vời bên cạnh gia
+                đình và người thân yêu.
+            </p>
+            <a href="/Lienhe.html" class="pulse-effect button-link">Liên hệ ngay</a>
+
+        </div>
+</section>
+<!-- Banner -->
+<!-- Category -->
+<section id="category">
+    <div class="container">
+        <div class="list-category">
+            <div class="row">
+                  @foreach(var item in Model.Categories){
+                        <div class="box-category col-3">
+                            <div class="img-category">
+                            <img src="@item.Icon" alt="@item.Slug">
+                            </div>
+                            <a href="/Sanpham.html">
+                                <h3>@item.Title</h3>
+                            </a>
+                        </div>
+                        }
+                </div>
+        </div>
+    </div>
+    <section id="product">
+        <div class="container">
+            <div class="container-x">
+                <a href="/Xemtatca_sp.html">
+                    <h2>Sản phẩm nổi bật</h2>
+                </a>
+                <div id="list-product">
+                    @* Lặp ra từng sản phẩm, mỗi sản phẩm là 1 box-product riêng *@
+                    @foreach (var item in Model.Products)
+                    {
+                        <div class="box-product">
+                            <div class="hover-img">
+                                <div class="imgs">
+                                    @* nếu đường dẫn tương đối, thêm Url.Content để resolve đến wwwroot *@
+                                    <img class="w-100" src="@Url.Content("~/" + item.Image)" alt="@item.Slug" />
+                                </div>
+                                <div>
+                                    <h3 class="product-title">@item.Title</h3>
+                                    <div class="icon-star">
+                                        @for (int i = 0; i < item.Star; i++)
+                                        {
+                                            <i class="fa-solid fa-star"></i>
+                                        }
+                                    </div>
+                                    <div class="product-size">@item.Size</div>
+                                    <div class="product-price">@string.Format("{0:N0}", item.PriceNew) đ</div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- About Us -->
+<section id="about-us">
+    <div class="container">
+        <div class="container-x">
+            <div class="about-us-top">
+                <a href="/Baiviet.html">
+                    <h2>Về chúng tôi</h2>
+                </a>
+                <div class="row ">
+                    <div class="col-6 img-about-us imgs">
+                        <img src="/img/AnhCat/ve-chung-toi.jpg" class="w-100" alt="ve-chung-toi">
+                    </div>
+                    <div class="col-6 content-about-us">
+                        <h3>
+                            Nội thất <span>Hoàng hoan</span><br>
+                            Uy tín song hành chất lượng
+                        </h3>
+                        <p>
+                            Nội thất <span>Hoàng Hoan</span> chúng tôi
+                            tự hào là đứa con tinh thần ra đời
+                            sau 30 năm hoạt động trên lĩnh vực kinh
+                            doanh đồ gỗ với thương hiệu
+                            ĐỒ GỖ HOÀNG HOAN nổi tiếng
+                        </p>
+                        <p>
+                            Tài nguyên của chúng tôi là đội ngũ kiến
+                            trúc sư tốt nghiệp
+                            ĐH Kiến Trúc Hà Nội với nhiều năm kinh
+                            nghiệm, luôn tràn đầy
+                            nhiệt huyết và sức sáng tạo của tuổi trẻ.
+                            Thế mạnh của chúng tôi
+                            là sở hữu xưởng nội thất hơn 10.000m2 tại Hà
+                            Nội sản xuất đa dạng
+                            các sản phẩm với giá cả cạnh tranh.
+                        </p>
+                        <div class="list-img-about-us box-product">
+                            <div class="img-about-us imgs ">
+                                <img src="/img/AnhCat/ve-chung-toi-1.jpg" alt="ve-chung-toi-1">
+                            </div>
+                            <div class="img-about-us imgs">
+                                <img src="/img/AnhCat/ve-chung-toi-2.jpg" alt="ve-chung-toi-2">
+                            </div>
+                            <div class="img-about-us imgs ">
+                                <img src="/img/AnhCat/ve-chung-toi-3.jpg" alt="ve-chung-toi-3">
+                            </div>
+                            <div class="img-about-us imgs">
+                                <img src="/img/AnhCat/ve-chung-toi-4.jpg" alt="ve-chung-toi-4">
+                                <a href="#">Xem thêm ></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="about-us-bottom">
+            <h2>Tại sao nên chọn hoàng hoan</h2>
+            <div class="row">
+                <div class="col-6">
+                    <div class="box-about-us">
+                        <div class="logo-about-us">
+                            <img src="/img/AnhCatTC/ve-chung-toi/chinh-sach.jpg" alt="chinh-sach">
+                        </div>
+                        <div class="content-about-us">
+                            <h5>Chính sách giá</h5>
+                            <p>
+                                Tốt nhất và công khai giá trên
+                                website
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="box-about-us">
+                        <div class="logo-about-us">
+                            <img src="/img/AnhCatTC/ve-chung-toi/san-pham.jpg" alt="san-pham">
+                        </div>
+                        <div class="content-about-us">
+                            <h5>Sản xuất</h5>
+                            <p>
+                                Tốt nhất và công khai giá trên
+                                website
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="box-about-us">
+                        <div class="logo-about-us">
+                            <img src="/img/AnhCatTC/ve-chung-toi/chat-luong.jpg" alt="chat-luong">
+                        </div>
+                        <div class="content-about-us">
+                            <h5>Chất lượng</h5>
+                            <p>
+                                Tốt nhất và công khai giá trên
+                                website
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="box-about-us">
+                        <div class="logo-about-us">
+                            <img src="/img/AnhCatTC/ve-chung-toi/bao-hanh.jpg" alt="chat-luong">
+                        </div>
+                        <div class="content-about-us">
+                            <h5>Bảo Hành</h5>
+                            <p>Dịch vụ bảo hành tốt nhất khu vực</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- News -->
+<section id="news">
+    <div class="container">
+        <div class="container-x">
+            <a href="/Tintuc.html">
+                <h2>Tin tức</h2>
+            </a>
+            <div class="box-news">
+                <div class="news-left">
+                    <div class="img-news">
+                        <img class="w-100" src="/img/AnhCatTC/tin-tuc/tintuc-1.jpg" alt="tintuc-1">
+                    </div>
+                    <div class="content-news">
+                        <h4>
+                            Cách chọn sofa cho phòng khách nhà bạn thêm
+                            phần
+                            sang trọng
+                        </h4>
+                        <p class="content-p">
+                            Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Error maiores in animi est
+                            id
+                            consequuntur atque cum eius dolorum, cumque
+                            architecto nobis pariatur doloremque, nihil
+                            sequi aliquid ad delectus beatae?
+                        </p>
+                    </div>
+                </div>
+                <div class="news-right">
+                    <div class="row item-news">
+                        <div class="col-5">
+                            <div class="img-news">
+                                <img class="w-100 h-100" src="/img/AnhCat/tintuc-2.jpg" alt>
+                            </div>
+
+                        </div>
+                        <div class="col-7">
+                            <h4>Tiêu đề</h4>
+                            <p>
+                                Lorem ipsum dolor sit, amet consectetur
+                                adipisicing elit. Iste error, ipsum cum
+                                sit
+                                et fugit praesentium dolorum voluptatum
+                                perspiciatis omnis quia soluta, eius
+                                distinctio quos ad vero dignissimos iure
+                                sunt!
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row item-news">
+                        <div class="col-5">
+                            <div class="img-news">
+                                <img class="w-100 h-100" src="/img/AnhCat/tintuc-3.jpg" alt>
+                            </div>
+
+                        </div>
+                        <div class="col-7">
+                            <h4>Tiêu đề</h4>
+                            <p>
+                                Lorem ipsum dolor sit, amet consectetur
+                                adipisicing elit. Iste error, ipsum cum
+                                sit
+                                et fugit praesentium dolorum voluptatum
+                                perspiciatis omnis quia soluta, eius
+                                distinctio quos ad vero dignissimos iure
+                                sunt!
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row item-news">
+                        <div class="col-5">
+                            <div class="img-news">
+                                <img class="w-100  h-100" src="/img/AnhCat/tintuc-4.jpg" alt>
+                            </div>
+
+                        </div>
+                        <div class="col-7">
+                            <h4>Tiêu đề</h4>
+                            <p>
+                                Lorem ipsum dolor sit, amet consectetur
+                                adipisicing elit. Iste error, ipsum cum
+                                sit
+                                et fugit praesentium dolorum voluptatum
+                                perspiciatis omnis quia soluta, eius
+                                distinctio quos ad vero dignissimos iure
+                                sunt!
+                            </p>
+                        </div>
+                    </div>
+
+                    <a href="/Xemtatca_sp.html">Xem thêm <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- News -->
+<!-- Đối tác -->
+<section id="doi-tac">
+    <div class="container">
+        <div class="container-x">
+            <a href="/Đoitac.html">
+                <h2>Đối tác</h2>
+            </a>
+        </div>
+        <div id="lists-doi-tac">
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/vinpearl.png" alt>
+            </div>
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/muong-thanh.png" alt>
+            </div>
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/sheraton.png" alt>
+            </div>
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/the-coffee-house.png" alt>
+            </div>
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/marvella.png" alt>
+            </div>
+            <div class="img-doi-tac ">
+                <img src="/img/AnhCatTC/doi-tac/sunrise-sapa.png" alt>
+            </div>
+            <div class="img-doi-tac center">
+                <img src="/img/AnhCatTC/doi-tac/melissa.png" alt>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Đối tác -->
+<!-- Liên hệ -->
+<section id="lien-he">
+    <div class="container">
+        <div class="container-x">
+            <div class="box-lien-he">
+                <div class="lien-he-left">
+                    <div class="lien-he-top mt-5">Trải nghiệm dịch vụ</div>
+                    <div class="lien-he-bottom">cùng Hoàn Hoan ngay</div>
+                </div>
+                <div class="lien-he-right">
+                    <div class="input-lien-he">
+                        <label for="exampleFormControlInput1" class="form-label">Thông tin liên hệ</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                               placeholder="email/số điện thoại">
+                    </div>
+                    <div class="btn-lien-he">
+                        <button>Gửi</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="img-ghe">
+        <img src="/img/AnhCat/lienhe-bg-removed.png" alt="">
+    </div>
+</section>

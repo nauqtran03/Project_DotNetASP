@@ -1,5 +1,101 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-cau-thang.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-cau-thang.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12457"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002210Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-cau-thang.llmj1dt86o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-cau-thang.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"llmj1dt86o"},{"Name":"integrity","Value":"sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-cau-thang.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12457"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002210Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-do-trang-tri.8dsaef16eq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-do-trang-tri.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8dsaef16eq"},{"Name":"integrity","Value":"sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6498"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-do-trang-tri.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6498"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-bep.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-bep.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8912"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-bep.p4qe0u93qq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-bep.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p4qe0u93qq"},{"Name":"integrity","Value":"sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-bep.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8912"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-khach.81rjalspob.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-khach.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"81rjalspob"},{"Name":"integrity","Value":"sha256-ZDKUP9j4\u002BXXgwa12im2tVttMDDVioIbjAeiMwtWiS84="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-khach.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11047"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZDKUP9j4\u002BXXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-khach.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-khach.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZDKUP9j4\u002BXXgwa12im2tVttMDDVioIbjAeiMwtWiS84="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11047"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZDKUP9j4\u002BXXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-ngu.goqevehqtd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-ngu.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"goqevehqtd"},{"Name":"integrity","Value":"sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-ngu.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8598"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-ngu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-ngu.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8598"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-tam.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-tam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-86w7rHITEjZ\u002Brnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8642"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002286w7rHITEjZ\u002Brnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-tam.zofilyxm4r.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-phong-tam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zofilyxm4r"},{"Name":"integrity","Value":"sha256-86w7rHITEjZ\u002Brnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-phong-tam.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8642"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002286w7rHITEjZ\u002Brnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-tre-em.fmzeemfych.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-tre-em.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fmzeemfych"},{"Name":"integrity","Value":"sha256-Kf4tFYAPwHX9UXE\u002BJVPmoJMZB59EJnXrnuFOfu3LzFk="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-tre-em.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20555"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Kf4tFYAPwHX9UXE\u002BJVPmoJMZB59EJnXrnuFOfu3LzFk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-tre-em.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-tre-em.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Kf4tFYAPwHX9UXE\u002BJVPmoJMZB59EJnXrnuFOfu3LzFk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20555"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Kf4tFYAPwHX9UXE\u002BJVPmoJMZB59EJnXrnuFOfu3LzFk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-van-phong.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-van-phong.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30\u002BhDvsk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15882"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30\u002BhDvsk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-van-phong.mlh8mp76c6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Content\Uploads\images\danh-muc\icon-van-phong.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mlh8mp76c6"},{"Name":"integrity","Value":"sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30\u002BhDvsk="},{"Name":"label","Value":"_content/Project_DotNet/Content/Uploads/images/danh-muc/icon-van-phong.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15882"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30\u002BhDvsk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 02:55:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Project_DotNet/css/baiviet.azjm9ti904.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\baiviet.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

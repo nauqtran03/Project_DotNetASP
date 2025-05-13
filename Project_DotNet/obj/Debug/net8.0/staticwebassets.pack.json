@@ -5,6 +5,38 @@
       "PackagePath": "staticwebassets\\Project_DotNet.bq9k0l8zpn.bundle.scp.css"
     },
     {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg"
+    },
+    {
+      "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg"
+    },
+    {
       "Id": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\Edu_AU_VIC_WA_NT_Hand\\EduAUVICWANTHand-VariableFont_wght.ttf",
       "PackagePath": "staticwebassets\\css\\Edu_AU_VIC_WA_NT_Hand\\EduAUVICWANTHand-VariableFont_wght.ttf"
     },

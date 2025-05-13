@@ -3,6 +3,662 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-cau-thang.llmj1dt86o.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llmj1dt86o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-do-trang-tri.8dsaef16eq.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dsaef16eq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-bep.p4qe0u93qq.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4qe0u93qq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-khach.81rjalspob.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81rjalspob"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-ngu.goqevehqtd.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "goqevehqtd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-tam.zofilyxm4r.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zofilyxm4r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-tre-em.fmzeemfych.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-tre-em.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fmzeemfych"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-tre-em.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-tre-em.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-tre-em.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-van-phong.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-van-phong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-van-phong.mlh8mp76c6.jpg",
+      "AssetFile": "Content/Uploads/images/danh-muc/icon-van-phong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlh8mp76c6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk="
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-van-phong.jpg"
+        }
+      ]
+    },
+    {
       "Route": "Project_DotNet.bq9k0l8zpn.styles.css",
       "AssetFile": "Project_DotNet.styles.css",
       "Selectors": [],

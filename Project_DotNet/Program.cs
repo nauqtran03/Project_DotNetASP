@@ -29,7 +29,7 @@ namespace Project_DotNet
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseStaticFiles();
             app.UseAuthorization();
             app.UseAuthentication();    
             app.MapControllerRoute(

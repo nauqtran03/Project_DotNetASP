@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+ty7X89f3X8BxF/IZPHHecoRzEvBypZrZCSt1KKUBa4=",
+  "Hash": "GN0Z/alWJmSrfL/3Oh6C8N63wDgiEuMiV3u40a0epII=",
   "Source": "Project_DotNet",
   "BasePath": "_content/Project_DotNet",
   "Mode": "Default",
@@ -57,6 +57,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project_DotNet.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-cau-thang#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "llmj1dt86o",
+      "Integrity": "10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-do-trang-tri#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8dsaef16eq",
+      "Integrity": "HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-phong-bep#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p4qe0u93qq",
+      "Integrity": "N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-phong-khach#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81rjalspob",
+      "Integrity": "ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-phong-ngu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "goqevehqtd",
+      "Integrity": "cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-phong-tam#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zofilyxm4r",
+      "Integrity": "86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-tre-em#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fmzeemfych",
+      "Integrity": "Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg"
+    },
+    {
+      "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg",
+      "SourceId": "Project_DotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\",
+      "BasePath": "_content/Project_DotNet",
+      "RelativePath": "Content/Uploads/images/danh-muc/icon-van-phong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlh8mp76c6",
+      "Integrity": "5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg"
     },
     {
       "Identity": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\baiviet.css",
@@ -9741,6 +9909,662 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-cau-thang.llmj1dt86o.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-cau-thang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llmj1dt86o"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-cau-thang.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10Ghng0s2tX/8NjFTeTlDlclkhGHD0RJBlPNoPwyVwU="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-do-trang-tri.8dsaef16eq.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dsaef16eq"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-do-trang-tri.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-do-trang-tri.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKjI5XYJJIsg71r9bVxU34GcDx6Y/hLYrEML7bVux6o="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-bep.p4qe0u93qq.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-bep.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4qe0u93qq"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-bep.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/zxy/EBk/mBqj1dxzkULSeeUTBUdvjK4A57lncFaoY="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-khach.81rjalspob.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81rjalspob"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-khach.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDKUP9j4+XXgwa12im2tVttMDDVioIbjAeiMwtWiS84="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-ngu.goqevehqtd.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "goqevehqtd"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-ngu.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHqyFcwhT17h6d2EmRq/qNE0a6sOeVWQft7LcIB81yc="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-phong-tam.zofilyxm4r.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-tam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zofilyxm4r"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-phong-tam.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-86w7rHITEjZ+rnyfo8jE2BbQ0DA73GeDnLHlv6PISw8="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-tre-em.fmzeemfych.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fmzeemfych"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-tre-em.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-tre-em.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-tre-em.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf4tFYAPwHX9UXE+JVPmoJMZB59EJnXrnuFOfu3LzFk="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-van-phong.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Uploads/images/danh-muc/icon-van-phong.mlh8mp76c6.jpg",
+      "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-van-phong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 02:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlh8mp76c6"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Uploads/images/danh-muc/icon-van-phong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5iqZfXFKBJSJRbJUVM4p7IDElKdievarNTf30+hDvsk="
+        }
+      ]
+    },
     {
       "Route": "css/baiviet.azjm9ti904.css",
       "AssetFile": "D:\\DevMaster\\Project_DotNet\\Project_DotNet\\wwwroot\\css\\baiviet.css",

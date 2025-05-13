@@ -22,6 +22,13 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="wwwroot\Content\Uploads\images\danh-muc\" />
+    <Folder Include="wwwroot\Images\products\cau-thang\" />
+    <Folder Include="wwwroot\Images\products\tre-em\" />
+    <Folder Include="wwwroot\Images\products\phong-tam\" />
+    <Folder Include="wwwroot\Images\products\phong-bep\" />
+    <Folder Include="wwwroot\Images\products\phong-ngu\" />
+    <Folder Include="wwwroot\Images\products\phong-khach\" />
   </ItemGroup>
 
 </Project>

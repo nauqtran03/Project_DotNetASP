@@ -1,3 +1,11 @@
+wwwroot\Content\Uploads\images\danh-muc\icon-cau-thang.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-do-trang-tri.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-phong-bep.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-phong-khach.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-phong-ngu.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-phong-tam.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-tre-em.jpg
+wwwroot\Content\Uploads\images\danh-muc\icon-van-phong.jpg
 wwwroot\css\baiviet.css
 wwwroot\css\banner.css
 wwwroot\css\chatluongsp.css
