@@ -9,7 +9,7 @@ public partial class DevxuongmocContext : DbContext
     public DevxuongmocContext()
     {
     }
-
+    
     public DevxuongmocContext(DbContextOptions<DevxuongmocContext> options)
         : base(options)
     {
@@ -53,6 +53,10 @@ public partial class DevxuongmocContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Product>()
+           .HasOne(p => p.Category)
+           .WithMany(c => c.Products)
+           .HasForeignKey(p => p.Cid);
         modelBuilder.Entity<AdminLog>(entity =>
         {
             entity.HasKey(e => e.LogId).HasName("PK__ADMIN_LO__4364C8820110A1F2");

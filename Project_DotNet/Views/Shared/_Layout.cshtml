@@ -1,78 +1,78 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chủ xưởng mộc</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - Trang chủ xưởng mộc</title>
+
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
           integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
           crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+
+    <!-- Slick carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"
           integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A=="
           crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
           integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
           crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="~/css/index.css">
-    <link rel="stylesheet" href="~/css/layout.css">
-    <link rel="stylesheet" href="~/css/banner.css">
-    <link rel="stylesheet" href="~/css/font.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="~/css/layout.css" />
+    <link rel="stylesheet" href="~/css/banner.css" />
+    <link rel="stylesheet" href="~/css/font.css" />
+
+    <!-- Section CSS riêng -->
+    @RenderSection("Styles", required: false)
 </head>
-
 <body>
-
-    <!-- form, notify,slick -->
-    <!-- Header -->
+    <!-- Cursor -->
     <div class="cursor"></div>
+
+    <!-- Header -->
     <header>
         <div class="container">
             <div class="d-flex justify-content-between header-bgr">
                 <div class="header-logo">
                     <img class="w-100" src="/img/logo.jpg" alt="logo">
                 </div>
-                @await Component.InvokeAsync("Navbar");
+                @await Component.InvokeAsync("Navbar") <!-- Navbar component -->
                 <div class="nav-icon">
-                    <label for="toggleClass"><i class="fa-solid fa-bars "></i></label>
+                    <label for="toggleClass"><i class="fa-solid fa-bars"></i></label>
                 </div>
             </div>
         </div>
     </header>
-    <!-- Header -->
-    
-    <!-- Liên hệ -->
-    @RenderBody()
-    <!-- footer -->
+
+    <!-- Nội dung chính -->
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
     <footer>
-        <div class="container ">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-5  ">
-                    <div>
-                        <h6>Thông tin chung</h6>
-                        <h5>CÔNG TY TNHH HOÀN HOAN</h5>
-                    </div>
+                <div class="col-lg-5">
+                    <h6>Thông tin chung</h6>
+                    <h5>CÔNG TY TNHH HOÀNG HOAN</h5>
                     <div class="box-distance">
-                        <a href=""><span><i class="fa-solid fa-phone"></i></span>0986294276</a>
-                        <br>
-                        <a href="">
-                            <span>
-                                <i class="fa-sharp fa-regular fa-envelope"></i></i>
-                            </span>cskh@HoangHoan.vn
-                        </a><br>
-                        <a href="">
-                            <span>
-                                <i class="fa-solid fa-location-dot"></i>
-                            </span>Số 1 Nguyễn Trãi,Thanh xuân,Hà Nội
-                        </a>
+                        <a href="#"><i class="fa-solid fa-phone"></i> 0986294276</a><br />
+                        <a href="#"><i class="fa-regular fa-envelope"></i> cskh@HoangHoan.vn</a><br />
+                        <a href="#"><i class="fa-solid fa-location-dot"></i> Số 1 Nguyễn Trãi, Thanh Xuân, Hà Nội</a>
                     </div>
                 </div>
-                <div class="col-lg-4 ">
-                    <div>
-                        <h6>Về chúng tôi</h6>
-                    </div>
+                <div class="col-lg-4">
+                    <h6>Về chúng tôi</h6>
                     <div class="box-distance">
                         <p>Giới thiệu</p>
                         <p>Sản phẩm</p>
@@ -87,27 +87,26 @@
                         <a href="https://www.facebook.com/em.langleben.90?mibextid=LQQJ4d">
                             <i class="fa-brands fa-square-facebook"></i>
                         </a>
-                        <a href="/img/Liênhee.jpg"><img src="/img/AnhCat/san-pham/images/icon_07.jpg" alt=""></a>
-                        <a href=""><i class="fa-sharp fa-regular fa-envelope"></i></a>
+                        <a href="/img/Liênhee.jpg"><img src="/img/AnhCat/san-pham/images/icon_07.jpg" alt="Zalo" /></a>
+                        <a href="#"><i class="fa-regular fa-envelope"></i></a>
                     </div>
                     <div class="check">
-                        <img src="/img/logoSaleNoti.png" alt="">
+                        <img src="/img/logoSaleNoti.png" alt="logoSale" />
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
             crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"
-            integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A=="
-            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"
-            integrity="sha512-eP8DK17a+MOcKHXC5Yrqzd8WI5WKh6F1TIk5QZ/8Lbv+8ssblcz7oGC8ZmQ/ZSAPa7ZmsCU4e/hcovqR8jfJqA=="
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="~/js/photoshop.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-</body>
 
+    <!-- JS riêng từng trang -->
+    @RenderSection("Scripts", required: false)
+</body>
 </html>

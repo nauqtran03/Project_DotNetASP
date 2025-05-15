@@ -36,4 +36,5 @@ public partial class Category
     public byte? Status { get; set; }
 
     public bool? Isdelete { get; set; }
+    public ICollection<Product> Products { get; set; }
 }

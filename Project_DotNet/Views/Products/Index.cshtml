@@ -1,7 +1,48 @@
-﻿@model IEnumerable<Project_DotNet.Models.DBModel.Product>
-
-@{
-    ViewData["Title"] = "Index";
+﻿@{
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@model IEnumerable<Project_DotNet.Models.DBModel.Category>
+@section Styles {
+    <link rel="stylesheet" href="~/css/sanpham.css" />
+}
+@foreach (var category in Model)
+{
+    <section id="news">
+        <div class="container">
+            <div class="container-x">
+                <h2>@category.Title</h2>
+                <div class="row" id="list-product">
+                    <a href="">
+                        <p>xem tất cả</p>
+                    </a>
 
+                    @foreach (var product in category.Products.Take(4)) // Hiển thị 4 sp thôi
+                    {
+                        <div class="box-product col-3">
+                            <div>
+                                <div class="imgs">
+                                    <img class="w-100" src="@product.Image" alt="@product.Slug" />
+                                </div>
+                                <div>
+                                    <h3 class="product-title">@product.Title</h3>
+                                    <div class="icon-star">
+                                        @for (int i = 0; i < 5; i++)
+                                        {
+                                            <span><i class="fa-solid fa-star"></i></span>
+                                        }
+                                    </div>
+                                    <div class="product-size">
+                                        (@product.Size)
+                                    </div>
+                                    <div class="product-price">
+                                        @string.Format("{0:N0}", product.PriceNew) đ
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+}

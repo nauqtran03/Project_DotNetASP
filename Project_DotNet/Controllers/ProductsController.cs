@@ -17,13 +17,15 @@ namespace Project_DotNet.Controllers
         {
             _context = context;
         }
+        private readonly DevxuongmocContext db = new DevxuongmocContext();
 
-        // GET: Products
-        public async Task<IActionResult> Index()
+        public ActionResult Index()
         {
-            return View(await _context.Products.ToListAsync());
+            var categories = db.Categories.Include("Products").ToList();
+            return View(categories);
         }
-
+        // GET: Products
+        
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {

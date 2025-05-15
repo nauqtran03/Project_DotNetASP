@@ -8,7 +8,7 @@ public partial class Product
     public int Id { get; set; }
 
     public int? Cid { get; set; }
-
+    public virtual Category Category { get; set; }
     public string? Code { get; set; }
 
     public string? Title { get; set; }
